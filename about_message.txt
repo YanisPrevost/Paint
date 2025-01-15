@@ -1,0 +1,5 @@
+This program was made by Anthony Colombani-Gailleur and Yanis Prevost.
+
+Realised in March 2024, Epitech-Marseille.
+
+My_Paint Project Tek1.

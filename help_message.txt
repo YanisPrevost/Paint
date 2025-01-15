@@ -1,0 +1,25 @@
+Welcome to our paint !
+
+I will introduce you some tips to use in this feature:
+
+First of all in the left up corner you have 3 differents buttons :
+    - File
+    - Edit
+    - Help (you just clicked on it)
+
+In the file part, you can save your drawing with a default name or with a custom name with the button "save as".
+You can also create a new file and reset your drawing by pressing "new_file".
+
+Next there is the Edit part. You can switch on the eraser if you want to by pressing the "eraser" button. You can
+also change the thickness of your pencil using "size +" and "size -".
+
+Finally the help button but i think your already know what it means XD.
+
+In the middle of the screen, you can see a white rectangle : it's where you can do whatever you like !
+You just have to press the left button of your mouse.
+
+But this is a bit boring to paint only in black is it not ? Let me introduce colors ! In the right of your window,
+there is 8 buttons with differents colors. By pressing them, you can switch the color of your pencil !
+
+I hope you enjoy our paint !
+This help message was made by Anthony.
